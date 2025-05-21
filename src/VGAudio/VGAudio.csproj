@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard1.1;net45</TargetFrameworks>
+	  <TargetFramework>net8.0</TargetFramework>
 
     <AssemblyTitle>VGAudio</AssemblyTitle>
     <Authors>Alex Barney</Authors>
